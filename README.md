@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shriyanshi211
-- 👀 I’m interested in web development and blockchain.
-- 🌱 I’m currently learning smart contracts.
+- 👀 I’m interested in learning new things and applying them.
+- 🌱 I’m currently learning backend development.
 - 📫 Contact me at @shriyanshisingh27@gmail.com
 
 <!---
